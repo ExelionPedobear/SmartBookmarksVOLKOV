@@ -53,7 +53,7 @@ public class ListViewAdapterComments extends BaseAdapter {
 
         if(convertView == null)
         {
-            vi = layoutInflater.inflate(R.layout.listview_books_row, null);
+            vi = layoutInflater.inflate(R.layout.listview_comments_row, null);
             holder = new ViewHolderComments((TextView) vi.findViewById(R.id.tvComment),
                     (TextView) vi.findViewById(R.id.tvDate),
                     (TextView) vi.findViewById(R.id.tvBookTitle));
