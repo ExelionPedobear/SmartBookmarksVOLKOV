@@ -98,7 +98,6 @@ public class CommentsAdapter {
             comment.setComment(cursor.getString(commentColumnIndex));
             comment.setDate(cursor.getString(dateColumnIndex));
 
-            Book book = new Book();
             comment.setBook(ba.getById(comment.getBookId()));
 
             comments.add(comment);

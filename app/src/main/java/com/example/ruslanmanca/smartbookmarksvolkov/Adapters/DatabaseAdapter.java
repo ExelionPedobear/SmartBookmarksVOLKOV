@@ -13,7 +13,7 @@ import java.util.ArrayList;
 
 public class DatabaseAdapter extends SQLiteOpenHelper {
     public static final int DATABASE_VERSION = 1;
-    public static final String DATABASE_NAME = "sortonsadijondb.db";
+    public static final String DATABASE_NAME = "smartbookmarksvolkov.db";
 
     Context newContext;
 
