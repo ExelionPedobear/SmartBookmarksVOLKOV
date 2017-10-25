@@ -13,12 +13,42 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../DijonCenter/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DijonCenter/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../DijonCenter/app/src/main/res/layout/activity_detail.xml">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../DijonCenter/app/src/main/res/layout/activity_map.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DijonCenter/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DijonCenterVOLKOV/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../DijonCenterVOLKOV/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DijonCenterVOLKOV/app/src/main/java/com/example/ruslanmanca/dijoncentervolkov/AjouterParcoursActivity.java">
           <value>
             <set />
           </value>
@@ -29,6 +59,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../DijonCenterVOLKOV/app/src/main/java/com/example/ruslanmanca/dijoncentervolkov/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DijonCenterVOLKOV/app/src/main/java/com/example/ruslanmanca/dijoncentervolkov/ParcoursActivity.java">
           <value>
             <set />
           </value>
@@ -58,7 +93,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../DijonCenterVOLKOV/app/src/main/java/com/example/ruslanmanca/dijoncentervolkov/listadapters/ParcoursListViewAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../DijonCenterVOLKOV/app/src/main/java/com/example/ruslanmanca/dijoncentervolkov/listadapters/PoiListViewAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DijonCenterVOLKOV/app/src/main/java/com/example/ruslanmanca/dijoncentervolkov/listadapters/PoiSpinnerAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DijonCenterVOLKOV/app/src/main/java/com/example/ruslanmanca/dijoncentervolkov/listadapters/SpinnerAdapterPoi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DijonCenterVOLKOV/app/src/main/java/com/example/ruslanmanca/dijoncentervolkov/listadapters/SpinnerAdapterStatut.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DijonCenterVOLKOV/app/src/main/java/com/example/ruslanmanca/dijoncentervolkov/listadapters/StatutSpinnerAdapter.java">
           <value>
             <set />
           </value>
@@ -103,6 +163,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../DijonCenterVOLKOV/app/src/main/res/layout/activity_ajouter_parcours.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../DijonCenterVOLKOV/app/src/main/res/layout/activity_detail.xml">
           <value>
             <set />
@@ -113,7 +178,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../DijonCenterVOLKOV/app/src/main/res/layout/activity_parcours.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DijonCenterVOLKOV/app/src/main/res/layout/parcours_listview_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../DijonCenterVOLKOV/app/src/main/res/layout/poi_listview_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DijonCenterVOLKOV/app/src/main/res/layout/spinner_row.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DijonCenterVOLKOV/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../DijonCenterVOLKOV/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
           <value>
             <set />
           </value>
@@ -209,6 +304,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/res/layout/spinner_books_row.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
           <value>
             <set />
           </value>
